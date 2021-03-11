@@ -5,3 +5,4 @@ Password can include lowercase, uppercase, numbers or special characters.
 
 
 Program written in Python.
+## Instructions
